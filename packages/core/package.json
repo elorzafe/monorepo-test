@@ -1,0 +1,11 @@
+{
+  "name": "elorzafe-test-core",
+  "version": "1.0.0",
+  "description": "core for testing monorepo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
